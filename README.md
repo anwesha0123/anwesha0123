@@ -29,7 +29,7 @@
   <a href="mailto:anweshad026@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.reddit.com/user/Academic-Schedule-73/" target="_blank">
+  <a href="https://www.reddit.com/" target="_blank">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
   </a>
   
