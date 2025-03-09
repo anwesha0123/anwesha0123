@@ -19,8 +19,7 @@
 - ❓ **Looking for Help With:** NLP, LLMs, Generative AI.  
 - 📖 **Currently Learning:** Reinforcement Learning & AI agents.  
 - 💡 **Ask Me About:** Machine Learning, Deep Learning, AI, Computer Vision.  
-- 👩‍💻 **Pronouns:** She/Her  
-- 😊 **Fun Fact:** The first-ever AI chatbot, ELIZA (1966), could trick people into thinking they were talking to a real human!   
+- 👩‍💻 **Pronouns:** She/Her     
 
 ---
 
