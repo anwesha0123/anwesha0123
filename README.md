@@ -10,7 +10,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&color=0000DC&center=true&vCenter=true&width=500&height=70&duration=5000&lines=I'm+Anwesha+Das+!;" />
 </h1>
 
-<h3 align="center">🚀 AI & ML Enthusiast | Developer | Programmer 🚀</h3>
+<h3 align="center">🚀 AI & ML Enthusiast | Developer | Programmer | Researcher 🚀</h3>
 
 ## 💫 About Me  
 
